@@ -7,16 +7,16 @@ A comprehensive syntax highlighting plugin for ArangoDB AQL (ArangoDB Query Lang
 ### Manual Installation
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/jbajic/aql-syntax-vim.git
-   ```
+```bash
+git clone https://github.com/jbajic/aql-syntax-vim.git
+```
 
 2. Copy the files to your Vim configuration:
-   ```bash
-   # For Vim
-   cp -r aql-syntax-vim/ftdetect ~/.vim/
-   cp -r aql-syntax-vim/syntax ~/.vim/
-   ```
+```bash
+# For Vim
+cp -r aql-syntax-vim/ftdetect ~/.vim/
+cp -r aql-syntax-vim/syntax ~/.vim/
+```
 
 ### Using a Plugin Manager
 
