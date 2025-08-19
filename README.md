@@ -16,10 +16,6 @@ A comprehensive syntax highlighting plugin for ArangoDB AQL (ArangoDB Query Lang
    # For Vim
    cp -r aql-syntax-vim/ftdetect ~/.vim/
    cp -r aql-syntax-vim/syntax ~/.vim/
-   
-   # For Neovim
-   cp -r aql-syntax-vim/ftdetect ~/.config/nvim/
-   cp -r aql-syntax-vim/syntax ~/.config/nvim/
    ```
 
 ### Using a Plugin Manager
